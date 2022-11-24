@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/8328258535/Book-service.git"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="cogjava3261 &lt;cogjava3261@ctsjava1595.iiht.tech&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="cogjava3261 &lt;cogjava3261@ctsjava1595.iiht.tech&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+	</section>
+</section>

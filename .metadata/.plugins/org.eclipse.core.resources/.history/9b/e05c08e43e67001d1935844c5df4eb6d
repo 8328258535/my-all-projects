@@ -1,0 +1,5 @@
+package com.basicsecurity.controller;
+
+public class AppController {
+
+}

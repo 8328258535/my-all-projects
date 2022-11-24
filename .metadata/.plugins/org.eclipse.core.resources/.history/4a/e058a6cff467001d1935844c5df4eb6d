@@ -1,0 +1,5 @@
+package com.basicsecurity.config;
+
+public class SecurityConfig {
+
+}

@@ -1,0 +1,5 @@
+package com.basicsecurity.service;
+
+public interface RoleRepository {
+
+}

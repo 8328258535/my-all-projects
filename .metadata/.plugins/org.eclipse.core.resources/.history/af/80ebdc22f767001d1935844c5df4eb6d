@@ -1,0 +1,6 @@
+package com.basicsecurity.model;
+
+
+public class Role {
+
+}
